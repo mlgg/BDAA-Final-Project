@@ -1,0 +1,31 @@
+Code	Description
+CO	Cooling for industrial purposes
+CI 	Commercial and Industrial Manufacturing (includes food processing and packaging, sand and gravel processing, asphalt plant, metal processing and manufacturing, pulp and paper manufacturing, aquatic plant culture, petroleum refining, car washes, and laundries)
+GP 	Groundwater Preservation (essentially a groundwater trust right)
+DG 	Domestic General (use of water for all domestic uses not specifically defined in the water right record or not defined by the other specific domestic use categories. Includes sewage treatment, farm supply, and laboratory use)
+DM 	Domestic Multiple (more than one dwelling, i.e. motels, trailer courts, campgrounds, parks, schools, port districts, public utility districts, diking and drainage districts, water districts, reclamation districts, and counties, none of which are under municipal control)
+DS 	Domestic Single (one dwelling with lawn and garden, up to one-half acre)
+DY 	Dairy
+EN 	Environmental Quality (includes pollution control, dust control, flood control, or any water use which improves or maintains the quality of the environment)
+FP 	Frost Protection (frost protection other than cranberries)
+FR 	Fire Protection (includes sprinkling log storage facilities)
+FS 	Fish Propagation (includes water service to ponds, reservoirs, hatcheries, and all other facilities involved in the overall purpose of fish propagation)
+HE 	Heat Exchange (use of such equipment as heat pumps, refrigeration equipment, and other cooling devices)
+HP 	Heat Protection For Crops (Water used during the summer months to protect such crops as apples and cranberries from the heat.)
+HW 	Highway (maintenance and construction)
+IR 	Irrigation (includes cranberry farming, lawn/garden watering with definite acreage, golf courses, greenhouses, etc.)
+Iflow 	Instream flow
+IT 	Municipal Intertie System
+MI 	Mining (includes washing coal, dredge mining, and hydraulic mining)
+MU 	Domestic Municipal (serves general domestic, commercial, and industrial needs of an incorporated municipality, i.e. cities, towns, and outlying areas)
+NoID'd 	No purpose identified
+OT 	Other (No purpose identified)
+PO 	Power (includes hydro-electric, hydraulic ram, and thermo-electric)
+RE 	Recreation and Beautification (includes beautifying private and public grounds and supplying water to swimming pools, boating ponds, etc)
+RW 	Railway (use of water to serve railway equipment and facilities)
+ST 	Stock Watering (includes domestic uses of water for dairy/cattle farms, game bird farming, poultry farming, and fur-bearing animal farming)
+SR 	Storage (Storage of water)
+TW-P 	Trust Water-Permanent (Water in a permanent trust)
+TW-T 	Trust Water-Temporary (Water in a temporary trust.)
+UN 	Unknown
+WL 	Wildlife Propagation (includes water to service non-domesticated animals such as birds, game and non-game species)
