@@ -1,19 +1,22 @@
 ####BDAA-Final-Project
 
 Components of README.md
-1.  General Information About BDAA-Final-Project Contents
-2.  Definition of Problem
-3.  Definition of Software
-4.  Results
-5.  Reproducibility
+
+	1. General Information About BDAA-Final-Project Contents
+	2. Definition of Problem
+	3. Definition of Software
+	4. Results
+	5. Reproducibility
 
 ======================================================================================================================================
 ####General Information About BDAA-Final-Project Contents
 
-1) Data files:
-    a) "Water_Right_Applications.csv" 
-        - (csv initially downloaded from https://data.wa.gov/Natural-Resources-Environment/Water-Right-Applications/9ubz-5r4b)
-        - this dataset contains all relevant information taken from Water Right Applications in Washington State, and includes the              following fields:
+The relevant project files in this repository include:
+
+	1. Data files:
+		
+		a) "Water_Right_Applications.csv":  a csv initially downloaded from https://data.wa.gov/Natural-Resources-Environment/Water-Right-Applications/9ubz-5r4b 
+    -this dataset contains all relevant information taken from Water Right Applications in Washington State, and includes the              following fields:
           1.  "WR_DOC_ID" -- database key for the document                        
           2.  "DOCUMENT_NUMBER" -- Washington State document ID number
           3.  "DOCUMENT_TYPE" -- indicates whether the application is new or a change to an existing water right
