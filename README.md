@@ -1,4 +1,4 @@
-BDAA-Final-Project
+####BDAA-Final-Project
 
 Components of README.md
 1.  General Information About BDAA-Final-Project Contents
@@ -8,7 +8,7 @@ Components of README.md
 5.  Reproducibility
 
 ======================================================================================================================================
-General Information About BDAA-Final-Project Contents
+####General Information About BDAA-Final-Project Contents
 
 1) Data files:
     a) "Water_Right_Applications.csv" 
@@ -59,12 +59,12 @@ General Information About BDAA-Final-Project Contents
     a) "Conclusions.docx"
     
 ======================================================================================================================================
-#Definition of Problem
+####Definition of Problem
 
 Water rights in the western half of the United States are controversial and complicated, and are likely to become moreso over the course of the century as the climate continues to change.  Therefore, I have chosen to work with an open government dataset showing key details from each of the new and renewing Water Right Applications in Washington State.  My goal was to use visualization to highlight areas of interest and paths of potential further investigation--essentially, to use visualization as a component of the data analysis.  The visualizations and conlusions are included in the final write up, the Word document "Conclusions".  The underlying purpose of this project, however, was to push my ability to produce a variety of plot types.  Prior to this project I have done only simple, uncolored barplots and scatter plots from the R base package. 
 
 ======================================================================================================================================
-#Definition of Software
+####Definition of Software
 
 Software used for data processing: RStudio, version 0.99.489
  - no unusual techniques were necessary, I used a combination of pre-existing functions and a few if- and for-loops to process and       clean the datasets; plotting was done with the ggplot2 package
@@ -73,13 +73,13 @@ System specs are as follows:
  - processor: Intel(R) Core(TM) i3 CPU M350 @ 2.27GHz
 
 ======================================================================================================================================
-#Results
+####Results
 
 The results are as expected after all troubleshooting is complete.  During code-development I had to do a lot of troubleshooting in the form of learning how to use new techniques correctly (for me) and also standard checking for mispellings and missing characters.  All told, the project probably took me around 40+ hours due to the fact that I was learning on the go.
 The results of this project exist primarily in the form of plot files.  These are available in the "Visualization Outputs" folder individually and are incorporated into the "Conclusions" Word document.  Recommendations for further improvement are also included in this document.
 
 ======================================================================================================================================
-#Reproducibility
+####Reproducibility
 
 The following files are required to reproduce this project:  "Water Right Applications" (dataset), "Purpose Code Key" (dataset), "WRA Visualizations Script" (processing, cleaning and plot production script).
 
