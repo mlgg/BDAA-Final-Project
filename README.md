@@ -46,7 +46,8 @@ The relevant project files in this repository include:
         	  25. "Location" -- geographic coordinates of source (latitude and longitude)
           	
     b) "Purpose Code Key" (available as a download from the "About" tab in the above website)
-       - this is a small table which keys the "PURPOSE_CODE" to a "PURPOSE_DESCRIPTION" for a better explanation of what the water will          be used for
+       - this is a small table which keys the "PURPOSE_CODE" to a "PURPOSE_DESCRIPTION" for a 
+       		better explanation of what the water will be used for
        
 2) Script to process and clean data, and create vizualizations in a folder called "Visualization Outputs"
 
