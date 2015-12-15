@@ -16,7 +16,9 @@ The relevant project files in this repository include:
 1. Data files:
 		
 	a) "Water_Right_Applications.csv" (https://data.wa.gov/Natural-Resources-Environment/Water-Right-Applications/9ubz-5r4b) 
-    	b) this dataset contains all relevant information taken from Water Right Applications in Washington State, and includes the               following fields:
+    	
+		-this dataset contains all relevant information taken from Water Right Applications in Washington State, and includes the               following fields:
+
           	1.  "WR_DOC_ID" -- database key for the document                        
           	2.  "DOCUMENT_NUMBER" -- Washington State document ID number
           	3.  "DOCUMENT_TYPE" -- indicates whether the application is new or a change to an existing water right
