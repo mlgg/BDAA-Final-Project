@@ -1,4 +1,4 @@
-# BDAA-Final-Project
+BDAA-Final-Project
 
 Components of README.md
 1.  General Information About BDAA-Final-Project Contents
@@ -8,7 +8,7 @@ Components of README.md
 5.  Reproducibility
 
 ======================================================================================================================================
-#General Information About BDAA-Final-Project Contents
+General Information About BDAA-Final-Project Contents
 
 1) Data files:
     a) "Water_Right_Applications.csv" 
