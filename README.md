@@ -13,7 +13,7 @@ Components of README.md
 
 The relevant project files in this repository include:
 
-	1. Data files:
+1) Data files:
 		
 		a) "Water_Right_Applications.csv" 			 									 	
 			- Source: https://data.wa.gov/Natural-Resources-Environment/Water-Right-Applications/9ubz-5r4b
@@ -55,13 +55,16 @@ The relevant project files in this repository include:
 
 3) The visualizations produced by the script, all in the folder "Visualization Outputs"
 
-    a) "County WRAs.png"  -- barplot of total water rights applications per county from 1990 to 2015
-    b) "Top Six Counties WRAs.png" -- linegraph showing trends in water rights applications from 1990 to 2015, for the six counties                                         with the most total applications
-    c) "Purpose for WRAs.png" -- barplot showing total count of applications for each type of water use purpose, 1990 to 2015
-    d) "Purpose Facet Plot.png" -- facet barplot showing the number of applications for each type of purpose, per year from 1990 to                                      2015
-    e) "Top Five Purposes for WRAs.png" -- facet lineplot showing the top five purposes for applications from 1990 to 2015, for each                                             of the six counties with the highest number of total applications
+    a) "County WRAs.png" - barplot of total water rights applications per county from 1990 to 2015
+    b) "Top Six Counties WRAs.png" - linegraph showing trends in water rights applications from 1990 to 2015,
+    					for the six counties with the most total applications
+    c) "Purpose for WRAs.png" - barplot showing total count of applications for each type of water use purpose, 1990 to 2015
+    d) "Purpose Facet Plot.png" - facet barplot showing the number of applications for each type of purpose, 
+    				per year from 1990 to 2015
+    e) "Top Five Purposes for WRAs.png" - facet lineplot showing the top five purposes for applications from 1990 to 2015, for each                                             of the six counties with the highest number of total applications
     f) "watersheds count.png" -- barplot showing total count of applications for each watershed being drawn from
-    g) "Source Locations.png" -- dotplot on Google map of Washington State showing location of source for each water right application                                  from 1990 to 2015
+    g) "Source Locations.png" -- dotplot on Google map of Washington State showing location of source 
+    				for each water right application from 1990 to 2015
     
 4) Word file containing both visualizations and associated analysis
 
@@ -76,8 +79,11 @@ Water rights in the western half of the United States are controversial and comp
 ####Definition of Software
 
 Software used for data processing: RStudio, version 0.99.489
+
  - no unusual techniques were necessary, I used a combination of pre-existing functions and a few if- and for-loops to process and       clean the datasets; plotting was done with the ggplot2 package
+
 System specs are as follows:
+
  - operating system: Windows 8.1, 64x
  - processor: Intel(R) Core(TM) i3 CPU M350 @ 2.27GHz
 
